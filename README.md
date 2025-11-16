@@ -15,7 +15,7 @@ Using two datasets — **User Profiles** and **Viewership Sessions** — the ana
 * **BrightTV Cleaned Table (from Snowflake)** – merged, transformed, and enriched dataset created for analysis
 * **Excel Pivot Workbook** – pivot tables and visuals based on cleaned data
 * **BrightTV_Viewership Insights Presentation-compressed** - created on Canva
-* ***BrightTV project Gantt Chart** - Shows task completed per week
+* **BrightTV project Gantt Chart** - Shows task completed per week
 ---
 
 ## 🧹 Data Cleaning & Transformation

@@ -8,6 +8,22 @@ Using two datasets — **User Profiles** and **Viewership Sessions** — the ana
 
 ---
 
+## 🧩 Miro Project Plan
+
+A Miro project plan was created to outline the full workflow of the BrightTV analysis.  
+The plan includes:
+
+- Data ingestion & cleaning steps  
+- Transformation logic in Snowflake  
+- EDA and Pivot Table analysis  
+- Power BI dashboard development  
+- Insights & recommendations  
+- Final presentation preparation  
+
+It provides a visual overview of the project timeline, dependencies, and key deliverables.
+
+
+---
 ## 📁 Project Files
 
 * **BrightTV_UserProfiles.csv** – demographic details of users
@@ -16,6 +32,9 @@ Using two datasets — **User Profiles** and **Viewership Sessions** — the ana
 * **Excel Pivot Workbook** – pivot tables and visuals based on cleaned data
 * **BrightTV_Viewership Insights Presentation-compressed** - created on Canva
 * **BrightTV project Gantt Chart** - Shows task completed per week
+* **PowerBi Dashboard** - visualizes key BrightTV insights
+* **MiroPlan Flowchart** - project workflow
+  
 ---
 
 ## 🧹 Data Cleaning & Transformation
@@ -104,3 +123,20 @@ Created directly in Excel using cleaned dataset:
 * **Gauteng & KZN** show the highest activity
 * **Sports, Africa Magic, and music channels** are top performers
 * **Low-consumption days:
+
+---
+
+## 📊 Power BI Dashboard Overview
+
+A Power BI dashboard was created to visually summarize the BrightTV viewership insights.  
+The dashboard includes:
+
+- **KPI Cards:** Total Sessions, Total Minutes Watched, Unique Users  
+- **Daily & Hourly Usage Trends**  
+- **Top 10 Channels**  
+- **Demographic Insights:** Age Group and Gender patterns  
+- **Dynamic Filters (Slicers):** Date, Gender, Age Group, Province  
+
+The dashboard provides a clear view of user engagement patterns and supports data-driven content and scheduling decisions.
+
+Screenshots of the dashboard are included in the repository.
